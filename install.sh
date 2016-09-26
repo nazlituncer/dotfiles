@@ -1,3 +1,4 @@
+#hello
 backup() {
   target=$1
   if [ -e "$target" ]; then           # Does the config file already exist?
